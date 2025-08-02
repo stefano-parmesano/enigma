@@ -1,4 +1,4 @@
-# Tiny v1
+# Enigma
 This project aims to provide a parser for the [Enigma](https://wiki.fabricmc.net/documentation:enigma_mappings) file format.
 
 ## Disclaimer
