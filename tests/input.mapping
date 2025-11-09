@@ -1,0 +1,13 @@
+CLASS a pkg/SomeClass
+	FIELD a	someField [I
+	METHOD a someMethod (III)V
+		ARG 1 amount
+		# This is a file comment. It can be put basically everywhere, except in the same line as a COMMENT.
+CLASS b pkg/xy/AnotherClass ACC:PUBLIC
+	COMMENT This is a
+	COMMENT multiline comment. You can use <b>HTML tags</b> if you like, or leave
+	COMMENT
+	COMMENT empty lines.
+	METHOD a anotherMethod (Ljava/lang/String;)I
+	CLASS c InnerClass
+		COMMENT This class's obfuscated fully qualified name is {@code b$c}.
