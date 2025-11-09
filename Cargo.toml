@@ -1,8 +1,8 @@
 [package]
 name = "enigma_rs"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2024"
-description = "Parser for Fabric's Enigma files "
+description = "Parser for Fabric's Enigma files"
 repository = "https://github.com/stefano-parmesano/enigma"
 license = "GPL-3.0-or-later"
 keywords = ["fabricmc", "minecraft", "parser"]
